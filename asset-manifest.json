@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.16cfc4db.css",
+    "main.js": "./static/js/main.0351e41c.js",
+    "static/media/MAPAPLL-01.svg": "./static/media/MAPAPLL-01.194b38835bc9bb7aebceeb9f2d12ceb8.svg",
+    "static/media/logo.png": "./static/media/logo.5833ce1aba150aadc309.png",
+    "index.html": "./index.html",
+    "main.16cfc4db.css.map": "./static/css/main.16cfc4db.css.map",
+    "main.0351e41c.js.map": "./static/js/main.0351e41c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16cfc4db.css",
+    "static/js/main.0351e41c.js"
+  ]
+}
